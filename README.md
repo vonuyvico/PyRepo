@@ -1,5 +1,5 @@
 # PyRepo
-This is Von Uyvico's Python repository
+Collection of Python projects
 
 ![Cover](https://raw.githubusercontent.com/vonuyvico/PyRepo/master/20200420_195226.png)
 
